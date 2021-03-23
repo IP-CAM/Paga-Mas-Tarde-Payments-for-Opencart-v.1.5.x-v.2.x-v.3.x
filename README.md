@@ -1,26 +1,26 @@
-pagamastarde-opencart
+Pagamamastarde-OpenCart.
 =====================
 
-Módulo de pago de Paga+Tarde para OpenCart (v.1.5.x - 2.3.x - v3.0.x)
+Payment Payment Module + Evening for OpenCart (V.1.5.x - 2.3.x - v3.0.x)
 
-## Instrucciones de Instalación
+## Installation instructions
 
-1. Crea tu cuenta en Pagamastarde.com si aún no la tienes [desde aquí](https://bo.pagamastarde.com)
-2. Descarga el módulo de [aquí](https://github.com/pagantis/pagamastarde-opencart/releases/)
-3. Sube el contenido de la carpeta que coincida con tu versión de opencart al directorio root ( / ) de tu instalación opencart.
-4. Si tu tienda tiene más idiomas, copia el fichero de idiomas en la carpeta correspondiente y edítalo para ajustar los textos
-  - includes/languages/OTRO_IDIOMA/modules/payment/pmt.php
-5. Configuralo con la información de tu cuenta que encontrarás en [el panel de gestión de Paga+Tarde](https://bo.pagamastarde.com/shop). Ten en cuenta que para hacer cobros reales deberás activar tu cuenta de Paga+Tarde.
+1. Create your account at pagamastarkde.com if you still do not have it [here] (https://bo.pagamastarde.com)
+2. Download the module from [HERE] (https://github.com/pagantis/pagamastarde-opencart/releases/)
+3. Upload the contents of the folder that matches your OpenCart version to the root directory (/) of your OpenCart installation.
+4. If your store has more languages, copy the language file in the corresponding folder and edit it to adjust the texts
+  - Includes / Languages ​​/ other_idioma / modules / payment / pmt.php
+5. Set up with your account information that you will find in [Payment Management Panel + Late] (https://bo.pagamastarde.com/shop). Keep in mind that to make real charges you must activate your Pay + Late Account.
 
-## Modo real y modo de pruebas
+## Real mode and test mode
 
-Tanto el módulo como Paga+Tarde tienen funcionamiento en real y en modo de pruebas independientes. Debes introducir las credenciales y las URLs de notificación correspondientes al entorno que desees usar.
+Both the module and pay + afternoon have actual operation and independent testing mode. You must introduce the credentials and the notification URLs corresponding to the environment you wish to use.
 
-Esto incluye las URLs de notificación. Confirma que tienes configuradas las URLs de notificación tanto en pruebas como en real.
+This includes the notification URLs. Confirm that you have configured the notification URLs in both testing and actual.
 
 
-### Soporte
+### Medium
 
-El manual de instalación y uso del módulo se puede consultar [aquí](https://github.com/pagantis/pagamastarde-opencart/raw/master/Guide.pdf).
+The Installation and Using Manual of the module can be found [HERE] (https://github.com/pagantis/pagamastarde-opencart/raw/master/guide.pdf).
 
-Si tienes alguna duda o pregunta no tienes más que escribirnos un email a [soporte@pagamastarde.com]
+If you have any questions or questions you do not have more to write an email to [support@pagamastarte.com]
